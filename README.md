@@ -9,7 +9,7 @@ My Resume in pdf
 
 ## Porfolio Projects
 
-## Project: Pizza Sales Performance Analysis
+## Project: Pizza Sales Performance Analysis- 
 
 **Code:** https://github.com/NTMASKOSTALIN/Pizza-Sales-Performance/blob/main/pizza_sales-%20sql.sql
 
@@ -20,6 +20,8 @@ My Resume in pdf
 **Skills:** data profiling, data analysis, statistical analysis & data visualisation.
 
 **Technology:** SQL & Tableau
+
+**Dashboard:** https://public.tableau.com/app/profile/masko.stalin.n.t/viz/PizzaSalesPerformanceDashboard_17836929985180/SalesPerformance?publish=yes
 
 **Results:** 
 * Segmented 32 Pizza SKUs based on **Product Performace matrix: Revenue Vs Volume** identified **11 hero products, 1 Volume Driver, 4 Premium Opportunities, and 16 underperforming products**.
