@@ -1,13 +1,13 @@
 # Data Analyst - Portfolio
 
-# About
+## About
 Hi, I'm N T Masko Stalin, I have completed MBA in Data Science & Analystics. I have developed a strong foundation in the Analytics and passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of Data Science as an entry-level Data Analyst.
 
 After my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in Statistical analysis & Data management which I believe will be a valuable asset for my role as a Data Analyst.
 
 My Resume in pdf
 
-# Porfolio Projects
+## Porfolio Projects
 
 ## Project: Pizza Sales Performance Analysis
 
@@ -38,12 +38,12 @@ My Resume in pdf
 * **Revenue fluctuated from +9.9% to -8.1% MoM** with no sustained growth trend, indicating promotion-driven rather than organic demand. Recommending a **consistent monthly promotional calendar**.
 
 
-# Education
+## Education
 
 MBA- Data Science & Analytics | Jain University | Jan 2023 - Nov 2024
 
 Bcom- Accounting * Finance | Ramaiah Institute of Business Studies | Jun 2019 – Sep 2022
 
-# Certificates
+## Certificates
 
 Google Data Analytics Professional Certificate | Coursera
