@@ -11,7 +11,7 @@ My Resume in pdf
 
 ## Project: Pizza Sales Performance Analysis
 
-**Code:**
+**Code:** https://github.com/NTMASKOSTALIN/Pizza-Sales-Performance/blob/main/pizza_sales-%20sql.sql
 
 **Goal:** Revenue Growth & Menu Optimisation
 
