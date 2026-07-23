@@ -23,7 +23,7 @@ My Resume in pdf
 
 **Technology:** SQL & Tableau
 
-**Dashboard:** https://public.tableau.com/app/profile/masko.stalin.n.t/viz/PizzaSalesPerformanceDashboard_17836929985180/SalesPerformance?publish=yes
+**Dashboard:** [https://public.tableau.com/app/profile/masko.stalin.n.t/viz/PizzaSalesPerformanceDashboard_17836929985180/SalesPerformance?publish=yes](Tableau)
 
 **Results:** 
 * Segmented 32 Pizza SKUs based on **Product Performace matrix: Revenue Vs Volume** identified **11 hero products, 1 Volume Driver, 4 Premium Opportunities, and 16 underperforming products**.
