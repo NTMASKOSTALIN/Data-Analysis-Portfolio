@@ -34,7 +34,7 @@ My Resume in pdf
     * **Premium Opportunities: Improve menu visiility, targeted promotions & offers (increase sales volume & maintain premium pricing).**
     * **Underperforming products: Test promotional campaigns, review pricing, recipe & menu placement, customer feeback (improve performance).**
 
-* **Chicken Pizzas** are the **top 3 pizzas($127k 16% of revenue)** by sales & Revenue and Supreme pizzas as a category with higher Revenue is evenly Spread. Recommending to focus on Classic for Veg & Chicken for Non veg with respective **Combos & offers**, protect Supreme & Veggie are more evenly spread pizzas focus on **pricing & menu simplification**.
+* **Chicken pizzas** are the **top three pizzas, generating $127K (16% of total revenue) in sales**. The **Supreme category has the highest revenue**, while **revenue from Veggie pizzas is more evenly distributed**. Recommend focusing on **Classic pizzas for vegetarian customers and Chicken pizzas for non-vegetarian** customers through **targeted combos and offers**, while protecting the **Supreme category and optimizing Veggie pizzas through pricing and menu simplification.**
 
 * **Large (L)** pizzas were the most preferred size with **12.74K orders**, followed by **Medium (11.16K)** and **Small (10.49K)**, while **XXL pizzas** accounted for only **0.03K orders**.Recommending **Optimise the inventory for L, M & S sizes, investigate on pricing for XXL & promotions, focus L & M for combos or family meals.**
 
