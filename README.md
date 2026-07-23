@@ -9,7 +9,7 @@ My Resume in pdf
 
 ## Porfolio Projects
 
-## Project: Pizza Sales Performance Analysis- 
+## Project: Pizza Sales Performance Analysis- https://github.com/NTMASKOSTALIN/Pizza-Sales-Performance
 
 **Code:** https://github.com/NTMASKOSTALIN/Pizza-Sales-Performance/blob/main/pizza_sales-%20sql.sql
 
