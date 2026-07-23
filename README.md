@@ -1,4 +1,4 @@
-# Data-Analysis-Portfolio
+# Data Analyst - Portfolio
 
 # About
 Hi, I'm N T Masko Stalin, I have completed MBA in Data Science & Analystics. I have developed a strong foundation in the Analytics and passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of Data Science as an entry-level Data Analyst.
