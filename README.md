@@ -27,6 +27,7 @@ My Resume in pdf
 
 **Results:** 
 * Segmented 32 Pizza SKUs based on **Product Performace matrix: Revenue Vs Volume** identified **11 hero products, 1 Volume Driver, 4 Premium Opportunities, and 16 underperforming products**.
+  
       Recommendation:
     * **Hero products- Combo meals, inventory management, top menu placement(protect & grow core revenue).**
     * **Volume drivers-Pricing optimisation, Upselling topping, Bundle with high margin products (increase AOV).**
