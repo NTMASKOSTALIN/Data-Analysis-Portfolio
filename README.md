@@ -46,9 +46,10 @@ My Resume in pdf
 
 **Project link:** https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard
 
-**Code:** SQL- https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard/blob/main/2.%20ECommerce%20file.sql
-          
-          Python- https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard/blob/main/Olist%20EDA%20notebook.ipynb
+**Code:** 
+SQL- https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard/blob/main/2.%20ECommerce%20file.sql
+
+Python- https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard/blob/main/Olist%20EDA%20notebook.ipynb
 
 **Goal:** Customer Retention & Revenue Optimization
 
